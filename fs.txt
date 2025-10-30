@@ -170,11 +170,13 @@ A:\dev\__\9.ssarts\lightandshadow\bb5.jpg
 A:\dev\__\9.ssarts\lightandshadow\bd9275ed882ad333df4d52a9190a9a18.jpg
 A:\dev\__\9.ssarts\lightandshadow\c0558fafe74d14f6cf9d8c56bd7a2d75.jpg
 A:\dev\__\9.ssarts\lightandshadow\c78fc9fa053956cbfd156606cd1b626a.jpg
+A:\dev\__\9.ssarts\lightandshadow\c9ca7af9d3dabdf59d2ed8d84628e671.jpg
 A:\dev\__\9.ssarts\lightandshadow\f0ee0fda-a447-4cc8-b605-f524725fa157.jpg
 A:\dev\__\9.ssarts\lightandshadow\fcd0d562c6aed64e8c2dc1e5ccdc231b.jpg
 A:\dev\__\9.ssarts\lightandshadow\02692d24fa41dde5fcef1014014fab58.webp
 A:\dev\__\9.ssarts\lightandshadow\0b94c28dfb8c028b319f1aa784864822.webp
 A:\dev\__\9.ssarts\lightandshadow\26730db88f6434384fe90ae479c66038.webp
+A:\dev\__\9.ssarts\lightandshadow\4700e09b5dbadf380245f3202bbeb408.webp
 A:\dev\__\9.ssarts\lightandshadow\4d4751636c241021be80e28619b61524.webp
 A:\dev\__\9.ssarts\lightandshadow\4e26aea4aa683e5be9736c80edf0367d.webp
 A:\dev\__\9.ssarts\lightandshadow\64331453139614c8dcd68346d54e2d7d.webp
@@ -196,6 +198,7 @@ A:\dev\__\9.ssarts\lightandshadow\df4884499e96811b5228306759f7ed24.webp
 A:\dev\__\9.ssarts\lightandshadow\df5691fffe8f0e5b8fc8649774f563b5.webp
 A:\dev\__\9.ssarts\lightandshadow\e4d24ea94bdedd5791f941c6927ad957.webp
 A:\dev\__\9.ssarts\lightandshadow\e9c2ce028c3d017dd642999e7a2a7136.webp
+A:\dev\__\9.ssarts\lightandshadow\e9e329d4db95eec8edce84ff803f1cc6.webp
 A:\dev\__\9.ssarts\lightandshadow\ed7811e813c5fc8f3c0fa11dbe5af0a4.webp
 A:\dev\__\9.ssarts\lightandshadow\f7ac1d5067d05620e4401a4037ea768f.webp
 A:\dev\__\9.ssarts\lightandshadow\f97b835856614f031ba467a0b63912f4.webp
@@ -352,6 +355,12 @@ A:\dev\__\9.ssarts\luneryear\lu6.jpg
 A:\dev\__\9.ssarts\luneryear\lu7.jpg
 A:\dev\__\9.ssarts\luneryear\lu8.jpg
 A:\dev\__\9.ssarts\luneryear\lu9.jpg
+A:\dev\__\9.ssarts\luneryear\4cdf5402012a44b9228c9eac6dc6ff59.webp
+A:\dev\__\9.ssarts\luneryear\a (141).webp
+A:\dev\__\9.ssarts\luneryear\a (54).webp
+A:\dev\__\9.ssarts\luneryear\a (56).webp
+A:\dev\__\9.ssarts\luneryear\a (63).webp
+A:\dev\__\9.ssarts\luneryear\a (82).webp
 A:\dev\__\9.ssarts\nature\003009a8413a37c552f2f6a5214d8574.jpg
 A:\dev\__\9.ssarts\nature\0a5e6418b30d1a971f857d1d2d4910f2.jpg
 A:\dev\__\9.ssarts\nature\0e2121cc1f5d5605b0476d7b37adcc3b.jpg
@@ -479,6 +488,7 @@ A:\dev\__\9.ssarts\oilpaint\bb3.jpg
 A:\dev\__\9.ssarts\oilpaint\bb4.jpg
 A:\dev\__\9.ssarts\oilpaint\bb5.jpg
 A:\dev\__\9.ssarts\oilpaint\c1b3c4a8545c5a17dd42076d6fe5e25e.jpg
+A:\dev\__\9.ssarts\picture\1644435223e30ec8013f8b432da5c99d.jpg
 A:\dev\__\9.ssarts\picture\b2e6e06f48361c501a81c4f8e32be073.jpg
 A:\dev\__\9.ssarts\picture\bb1.jpg
 A:\dev\__\9.ssarts\picture\bb2.jpg
@@ -716,7 +726,6 @@ A:\dev\__\9.ssarts\sketch\c8ef254f780fcbda842ec994ccf79031.jpg
 A:\dev\__\9.ssarts\sketch\caf31b5ffbcc938e28aa33b4910fb586.jpg
 A:\dev\__\9.ssarts\sketch\cda964fb03d758ba4d773e7dadda1b60.jpg
 A:\dev\__\9.ssarts\sketch\d1514fd0c82e3cc1c97084f14dd29cfa.jpg
-A:\dev\__\9.ssarts\sketch\d4bd2c28de3200da06ea72937d71c87e.jpg
 A:\dev\__\9.ssarts\sketch\daa9618ac4f844162a39f01d112363a5.jpg
 A:\dev\__\9.ssarts\sketch\db56c398ca45cc0f75fad93eceb53c80.jpg
 A:\dev\__\9.ssarts\sketch\e0cec3f54f2cecdc2b89a12cd6365994.jpg
@@ -760,7 +769,6 @@ A:\dev\__\9.ssarts\sketch\852688a775c326dd61bccf1e61bf8323.webp
 A:\dev\__\9.ssarts\sketch\8d412c7346b065bd68fa0396c9d511b4.webp
 A:\dev\__\9.ssarts\sketch\92c58a8da6c75cc5aa7adafedf4b5574.webp
 A:\dev\__\9.ssarts\sketch\930909a1293cd6bbb37be7d0ea941854.webp
-A:\dev\__\9.ssarts\sketch\98042667ae5d5fc4f7eff748a5f3d86e (1).webp
 A:\dev\__\9.ssarts\sketch\98042667ae5d5fc4f7eff748a5f3d86e.webp
 A:\dev\__\9.ssarts\sketch\a4b4945d7d89ac69d3c1564f01fca5d8.webp
 A:\dev\__\9.ssarts\sketch\abb2.webp
@@ -819,6 +827,7 @@ A:\dev\__\9.ssarts\stonepaint\94fc7806ad07c99b4a4eec05239c63bb.jpg
 A:\dev\__\9.ssarts\stonepaint\967993429c109f95ca1b32d22bdf1281.jpg
 A:\dev\__\9.ssarts\stonepaint\9a64c1a2db34327271f619f280533a71.jpg
 A:\dev\__\9.ssarts\stonepaint\9d2e12e13e91cded61e8dec6995f314a.jpg
+A:\dev\__\9.ssarts\stonepaint\9dea953adc9d3cb97827225a4af08703.jpg
 A:\dev\__\9.ssarts\stonepaint\9f3b10bfacd4f3131f3daf43753f85e3.jpg
 A:\dev\__\9.ssarts\stonepaint\a2625f80b49b35fdc255b7e08b143ce2.jpg
 A:\dev\__\9.ssarts\stonepaint\a3165a1efafc2931c2116858110eea54.jpg
@@ -895,7 +904,6 @@ A:\dev\__\9.ssarts\zzz\15929231ebfcd8096795baa20f8b2463.jpg
 A:\dev\__\9.ssarts\zzz\34aa06f1829c444211e43dc7c2e03f34.jpg
 A:\dev\__\9.ssarts\zzz\3ef6953d996597189f89d7e5cfe79a79.jpg
 A:\dev\__\9.ssarts\zzz\4454e6fbda447b30ddaf66080057778d.jpg
-A:\dev\__\9.ssarts\zzz\47fc552ba0927a99b19be39d8bdb4d80.jpg
 A:\dev\__\9.ssarts\zzz\4cf6689fff2c7445d06a80c8ad448184.jpg
 A:\dev\__\9.ssarts\zzz\515ec5c47215bbcac53ddedb290dda88.jpg
 A:\dev\__\9.ssarts\zzz\88cc2072eb55baae24e7e35b21b3dde1.jpg
@@ -919,11 +927,7 @@ A:\dev\__\9.ssarts\zzz\3dd162d15320ff0c7b5e7635c479a025.webp
 A:\dev\__\9.ssarts\zzz\53e4e7df0ba23a37ae9c654059ee27dc.webp
 A:\dev\__\9.ssarts\zzz\56242203e27d63d42e64e0a1b3c008a7.webp
 A:\dev\__\9.ssarts\zzz\5b60adf79798d86767038810e9af812c.webp
-A:\dev\__\9.ssarts\zzz\5bdc6a24bd44abc895ea33898546cf03.webp
 A:\dev\__\9.ssarts\zzz\7a957834932b40d3815635065cfcb089.webp
 A:\dev\__\9.ssarts\zzz\97868cb141cbd36b3fd30def6ff5e39b.webp
 A:\dev\__\9.ssarts\zzz\afd04f9efc188056419af1fdf19a0dff.webp
-A:\dev\__\9.ssarts\zzz\b228e7feb5ab65df89d99a7e778e899d.webp
-A:\dev\__\9.ssarts\zzz\bd9620f70cf89240994af79f120a985a.webp
-A:\dev\__\9.ssarts\zzz\de990610e440ddc71a3969b7b1db0a75.webp
 A:\dev\__\9.ssarts\zzz\ea8112622f3aafb39773516c8cf897ef.webp
