@@ -137,11 +137,13 @@ A:\dev\__\9.ssarts\illustration\ee949d4b6f4e5ca87e04b85b3fbb24cc.webp
 A:\dev\__\9.ssarts\illustration\f30fdd93e6ed72c2e4d2f274b5fe6723.webp
 A:\dev\__\9.ssarts\illustration\f71235b1936df1b840cf1ecd0cb924a2.webp
 A:\dev\__\9.ssarts\illustration\f812ee2310dfc10c737e7e0d656ce7a2.webp
+A:\dev\__\9.ssarts\lightandshadow\0211b236f83d632e6a8f76c3b0ad3490.webp
 A:\dev\__\9.ssarts\lightandshadow\02692d24fa41dde5fcef1014014fab58.webp
 A:\dev\__\9.ssarts\lightandshadow\0715600f0d69f2c175c0854fea099886.webp
 A:\dev\__\9.ssarts\lightandshadow\0d0d88f60535e8cd84206cea8a2693fd.webp
 A:\dev\__\9.ssarts\lightandshadow\1321d408bd47c1533c21b9f09257e9d9.webp
 A:\dev\__\9.ssarts\lightandshadow\140c5e1a59fee21434dda5b203950cfa.webp
+A:\dev\__\9.ssarts\lightandshadow\2019 (1242).webp
 A:\dev\__\9.ssarts\lightandshadow\2317b2162f04d1593fafae7fb87551b5.webp
 A:\dev\__\9.ssarts\lightandshadow\26730db88f6434384fe90ae479c66038.webp
 A:\dev\__\9.ssarts\lightandshadow\2c88ede1c06f04f7acc9030cdd350762.webp
@@ -194,6 +196,7 @@ A:\dev\__\9.ssarts\lightandshadow\c9ca7af9d3dabdf59d2ed8d84628e671.webp
 A:\dev\__\9.ssarts\lightandshadow\cbb8737c7542f5b0f47a100cf9a10a85.webp
 A:\dev\__\9.ssarts\lightandshadow\d2cbd9694a6417e0990b65e4471e0516.webp
 A:\dev\__\9.ssarts\lightandshadow\d3c30fd4c2a97475ff94fb4627b9de5b.webp
+A:\dev\__\9.ssarts\lightandshadow\decdb06e534f05897a1788c2c1ff8f3c.webp
 A:\dev\__\9.ssarts\lightandshadow\df4884499e96811b5228306759f7ed24.webp
 A:\dev\__\9.ssarts\lightandshadow\df5691fffe8f0e5b8fc8649774f563b5.webp
 A:\dev\__\9.ssarts\lightandshadow\e4d24ea94bdedd5791f941c6927ad957.webp
@@ -751,12 +754,8 @@ A:\dev\__\9.ssarts\sketch\sc2.webp
 A:\dev\__\9.ssarts\sketch\sc3.webp
 A:\dev\__\9.ssarts\sketch\sc4.webp
 A:\dev\__\9.ssarts\sketch\sc5.webp
-A:\dev\__\9.ssarts\sketch\sk1 (2).webp
 A:\dev\__\9.ssarts\sketch\sk2 (2).webp
-A:\dev\__\9.ssarts\sketch\sk3 (2).webp
 A:\dev\__\9.ssarts\sketch\sk3.webp
-A:\dev\__\9.ssarts\sketch\sk4 (2).webp
-A:\dev\__\9.ssarts\sketch\sk5.webp
 A:\dev\__\9.ssarts\stonepaint\003cdd8c997fb8751c485fc2ceab25ae.webp
 A:\dev\__\9.ssarts\stonepaint\1326752e2e404c652581814b7695493b.webp
 A:\dev\__\9.ssarts\stonepaint\1799b281f7d6ba469c4c09eaedc9968f.webp
@@ -769,6 +768,7 @@ A:\dev\__\9.ssarts\stonepaint\2a75b0bf4c88c54bcb17f23d6e1c4c15.webp
 A:\dev\__\9.ssarts\stonepaint\2f2b701be08915cfce7d2842073a5b81.webp
 A:\dev\__\9.ssarts\stonepaint\303f10da58090db57bc1353360c810c6.webp
 A:\dev\__\9.ssarts\stonepaint\31b52ed5cd172a8e9f35602630fcc842.webp
+A:\dev\__\9.ssarts\stonepaint\33392df008737b324fed3ff9c78334ed.webp
 A:\dev\__\9.ssarts\stonepaint\3364c51cbeb6a49d6e54257e885370cd.webp
 A:\dev\__\9.ssarts\stonepaint\3528a8aaa87821923bc32644732fc7c5.webp
 A:\dev\__\9.ssarts\stonepaint\36b19342a1d6bbb81c1a8503a60f1ce3.webp
@@ -876,7 +876,6 @@ A:\dev\__\9.ssarts\strokes\96c93640007c79dd5835a97e8e005463.webp
 A:\dev\__\9.ssarts\strokes\9fd0e031100dbe81f0692e35a7ca7c76.webp
 A:\dev\__\9.ssarts\strokes\ae0f63cdbbdd5428d9294c01f8c19264.webp
 A:\dev\__\9.ssarts\strokes\b345a8fb7e82b169e19621f93802d6ad.webp
-A:\dev\__\9.ssarts\strokes\bb2.webp
 A:\dev\__\9.ssarts\strokes\c726b263934e5134a8804aa8faddc2a4.webp
 A:\dev\__\9.ssarts\strokes\c86e5a4ed9427e80a628460fd4bb376d.webp
 A:\dev\__\9.ssarts\strokes\ca0342f06fd66d092f1834582f390443.webp
