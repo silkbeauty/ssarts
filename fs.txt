@@ -266,14 +266,16 @@ A:\dev\__\9.ssarts\lone\38391459e543379a456c437617f20c2c.webp
 A:\dev\__\9.ssarts\lone\5004249968632ff6ab625da65c742e74.webp
 A:\dev\__\9.ssarts\lone\54248d02698d36d85d3369d36813c703.webp
 A:\dev\__\9.ssarts\lone\8785d20fc6524e56405207910ec597fe.webp
+A:\dev\__\9.ssarts\lone\a1bb4.webp
 A:\dev\__\9.ssarts\lone\a933c64cc0f16c59fa7951be7555024b.webp
 A:\dev\__\9.ssarts\lone\abb4.webp
 A:\dev\__\9.ssarts\lone\bb1.webp
 A:\dev\__\9.ssarts\lone\bb2.webp
 A:\dev\__\9.ssarts\lone\bb3.webp
-A:\dev\__\9.ssarts\lone\bb4.webp
+A:\dev\__\9.ssarts\lone\bb5 (2).webp
 A:\dev\__\9.ssarts\lone\bb5.webp
 A:\dev\__\9.ssarts\lone\bc157aaabe59af47e9ccd55aa5d2aecb.webp
+A:\dev\__\9.ssarts\lone\cc7ffb25f459fb1923670f21a5d1da4f.webp
 A:\dev\__\9.ssarts\lone\d374d1a8f74cbddacee12fea7fa40fc0.webp
 A:\dev\__\9.ssarts\lone\dd84363974271ab5a70fcb892891d0ae.webp
 A:\dev\__\9.ssarts\lone\f29319a8b78d2d8971af494ec4c346ea.webp
@@ -295,13 +297,13 @@ A:\dev\__\9.ssarts\lone\lo6.webp
 A:\dev\__\9.ssarts\lone\lo7.webp
 A:\dev\__\9.ssarts\lone\lo8.webp
 A:\dev\__\9.ssarts\lone\lo9.webp
+A:\dev\__\9.ssarts\lone\na17.webp
+A:\dev\__\9.ssarts\lone\na31.webp
+A:\dev\__\9.ssarts\lone\na32.webp
+A:\dev\__\9.ssarts\lone\na35.webp
+A:\dev\__\9.ssarts\lone\na37.webp
+A:\dev\__\9.ssarts\lone\na39.webp
 A:\dev\__\9.ssarts\luneryear\22bb2 (2).webp
-A:\dev\__\9.ssarts\luneryear\4cdf5402012a44b9228c9eac6dc6ff59.webp
-A:\dev\__\9.ssarts\luneryear\a (141).webp
-A:\dev\__\9.ssarts\luneryear\a (54).webp
-A:\dev\__\9.ssarts\luneryear\a (56).webp
-A:\dev\__\9.ssarts\luneryear\a (63).webp
-A:\dev\__\9.ssarts\luneryear\a (82).webp
 A:\dev\__\9.ssarts\luneryear\bb1 (2).webp
 A:\dev\__\9.ssarts\luneryear\bb1.webp
 A:\dev\__\9.ssarts\luneryear\bb2 (2).webp
@@ -411,7 +413,6 @@ A:\dev\__\9.ssarts\nature\83fb86a591900a69c545515b63ca1f77.webp
 A:\dev\__\9.ssarts\nature\86a12282ae2dafe671b3d81837c80c79.webp
 A:\dev\__\9.ssarts\nature\93c4e82f71941e98d34d5bcdb1db0c29.webp
 A:\dev\__\9.ssarts\nature\98f0d24ba8a4ad9d530b2f50ab0d547f.webp
-A:\dev\__\9.ssarts\nature\a1bb4.webp
 A:\dev\__\9.ssarts\nature\ab594e0b06351a9c5f38196b1f25d628.webp
 A:\dev\__\9.ssarts\nature\ac423d4b0a6b2b6dc60aa071cf502eaa.webp
 A:\dev\__\9.ssarts\nature\aec272fc04be388d46c0fb05ca761b8a.webp
@@ -422,12 +423,10 @@ A:\dev\__\9.ssarts\nature\bb1.webp
 A:\dev\__\9.ssarts\nature\bb2.webp
 A:\dev\__\9.ssarts\nature\bb3.webp
 A:\dev\__\9.ssarts\nature\bb4.webp
-A:\dev\__\9.ssarts\nature\bb5.webp
 A:\dev\__\9.ssarts\nature\bc9cad20fbfc7c6506f813d17ac3a91f.webp
 A:\dev\__\9.ssarts\nature\bda2fc4d66e83587a76a777579d94e47.webp
 A:\dev\__\9.ssarts\nature\c2b399ff4c0f911eae8224561e3ccde8.webp
 A:\dev\__\9.ssarts\nature\c8c489a6c3ef8f88ad728f5874ca022e.webp
-A:\dev\__\9.ssarts\nature\cc7ffb25f459fb1923670f21a5d1da4f.webp
 A:\dev\__\9.ssarts\nature\cd6f1160c8cb143960e86e91300bc465.webp
 A:\dev\__\9.ssarts\nature\cd708cd4c4d21954e099f5b757428efd.webp
 A:\dev\__\9.ssarts\nature\d0266bf2c432062437aff340599591e5.webp
@@ -449,7 +448,6 @@ A:\dev\__\9.ssarts\nature\na12.webp
 A:\dev\__\9.ssarts\nature\na13.webp
 A:\dev\__\9.ssarts\nature\na15.webp
 A:\dev\__\9.ssarts\nature\na16.webp
-A:\dev\__\9.ssarts\nature\na17.webp
 A:\dev\__\9.ssarts\nature\na18.webp
 A:\dev\__\9.ssarts\nature\na19.webp
 A:\dev\__\9.ssarts\nature\na2.webp
@@ -465,15 +463,10 @@ A:\dev\__\9.ssarts\nature\na28.webp
 A:\dev\__\9.ssarts\nature\na29.webp
 A:\dev\__\9.ssarts\nature\na3.webp
 A:\dev\__\9.ssarts\nature\na30.webp
-A:\dev\__\9.ssarts\nature\na31.webp
-A:\dev\__\9.ssarts\nature\na32.webp
 A:\dev\__\9.ssarts\nature\na33.webp
 A:\dev\__\9.ssarts\nature\na34.webp
-A:\dev\__\9.ssarts\nature\na35.webp
 A:\dev\__\9.ssarts\nature\na36.webp
-A:\dev\__\9.ssarts\nature\na37.webp
 A:\dev\__\9.ssarts\nature\na38.webp
-A:\dev\__\9.ssarts\nature\na39.webp
 A:\dev\__\9.ssarts\nature\na4.webp
 A:\dev\__\9.ssarts\nature\na40.webp
 A:\dev\__\9.ssarts\nature\na41.webp
@@ -531,6 +524,55 @@ A:\dev\__\9.ssarts\picture\hu8.webp
 A:\dev\__\9.ssarts\picture\hu9.webp
 A:\dev\__\9.ssarts\picture\IMG_20240208_161320.webp
 A:\dev\__\9.ssarts\picture\sk4.webp
+A:\dev\__\9.ssarts\playstore\0a01a4239ee8ccf1f494d8f69dcd4725.png
+A:\dev\__\9.ssarts\playstore\71c0b24785657bd1a04a1c11f6821366.png
+A:\dev\__\9.ssarts\playstore\760031c970bed11a0a4d9316d4ba42fa.png
+A:\dev\__\9.ssarts\playstore\8c7b99d1f1eecd0617b995acb2c400ce.png
+A:\dev\__\9.ssarts\playstore\93787b7c57db8e50bc9be576cd89a916.png
+A:\dev\__\9.ssarts\playstore\a1.png
+A:\dev\__\9.ssarts\playstore\a2.png
+A:\dev\__\9.ssarts\playstore\a3.png
+A:\dev\__\9.ssarts\playstore\a4.png
+A:\dev\__\9.ssarts\playstore\a5.png
+A:\dev\__\9.ssarts\playstore\a6.png
+A:\dev\__\9.ssarts\playstore\a7.png
+A:\dev\__\9.ssarts\playstore\a8.png
+A:\dev\__\9.ssarts\playstore\as (11).png
+A:\dev\__\9.ssarts\playstore\as (12).png
+A:\dev\__\9.ssarts\playstore\as (13).png
+A:\dev\__\9.ssarts\playstore\as (14).png
+A:\dev\__\9.ssarts\playstore\as (15).png
+A:\dev\__\9.ssarts\playstore\as (16).png
+A:\dev\__\9.ssarts\playstore\as (17).png
+A:\dev\__\9.ssarts\playstore\as (18).png
+A:\dev\__\9.ssarts\playstore\as (19).png
+A:\dev\__\9.ssarts\playstore\as (20).png
+A:\dev\__\9.ssarts\playstore\as (21).png
+A:\dev\__\9.ssarts\playstore\as (22).png
+A:\dev\__\9.ssarts\playstore\as (23).png
+A:\dev\__\9.ssarts\playstore\as (24).png
+A:\dev\__\9.ssarts\playstore\as (25).png
+A:\dev\__\9.ssarts\playstore\as (26).png
+A:\dev\__\9.ssarts\playstore\as (27).png
+A:\dev\__\9.ssarts\playstore\as (28).png
+A:\dev\__\9.ssarts\playstore\as (5).png
+A:\dev\__\9.ssarts\playstore\as (6).png
+A:\dev\__\9.ssarts\playstore\as (7).png
+A:\dev\__\9.ssarts\playstore\as (8).png
+A:\dev\__\9.ssarts\playstore\asdfe3 (2).png
+A:\dev\__\9.ssarts\playstore\asdfe3 (3).png
+A:\dev\__\9.ssarts\playstore\asdfe3 (4).png
+A:\dev\__\9.ssarts\playstore\b4.png
+A:\dev\__\9.ssarts\playstore\bb4.png
+A:\dev\__\9.ssarts\playstore\bb5.png
+A:\dev\__\9.ssarts\playstore\ef94b82212f7e374c48c9bed8f74d523.png
+A:\dev\__\9.ssarts\playstore\efc1bcbf9e544f698ed1423c4bb09e12.png
+A:\dev\__\9.ssarts\playstore\long.png
+A:\dev\__\9.ssarts\playstore\w1 (2).png
+A:\dev\__\9.ssarts\playstore\w1.png
+A:\dev\__\9.ssarts\playstore\w6.png
+A:\dev\__\9.ssarts\playstore\w8.png
+A:\dev\__\9.ssarts\playstore\w9.png
 A:\dev\__\9.ssarts\scene\152bd6b4c60ddf997a4096d19b1703ce.webp
 A:\dev\__\9.ssarts\scene\162de49aa036806350dd717ce06b28c8.webp
 A:\dev\__\9.ssarts\scene\1cd84eed18542ded55464342a55302f0.webp
@@ -843,6 +885,7 @@ A:\dev\__\9.ssarts\strokes\1a169d262cfe2ba65675517e257927f3.webp
 A:\dev\__\9.ssarts\strokes\1bc1e99942abca34e129ddc15161c8ad.webp
 A:\dev\__\9.ssarts\strokes\1c0226fa533a9bc2be4d563fb56e7601.webp
 A:\dev\__\9.ssarts\strokes\1c3aa2e043877dcbd1732e6bf63e42f1.webp
+A:\dev\__\9.ssarts\strokes\1c73e41e75d0b4dddd3d2a54abf76f49.webp
 A:\dev\__\9.ssarts\strokes\2a3a426fc61f78669f8ee01c060cfbdb.webp
 A:\dev\__\9.ssarts\strokes\2c2903f472117107bb531919f8bb70e5.webp
 A:\dev\__\9.ssarts\strokes\2ec0bd7d08f250bf92fcc52528a8820d.webp
@@ -885,12 +928,20 @@ A:\dev\__\9.ssarts\strokes\cda964fb03d758ba4d773e7dadda1b60.webp
 A:\dev\__\9.ssarts\strokes\cf4a2a523eb1f5a10eec946a657ca499.webp
 A:\dev\__\9.ssarts\strokes\d23415bd9c54cf39368f25f679e6e776.webp
 A:\dev\__\9.ssarts\strokes\d3a45f342c89738207160ec9f61b2676.webp
+A:\dev\__\9.ssarts\strokes\da73a5a7c6cb852cdbd35c4f24aa5ae7.webp
 A:\dev\__\9.ssarts\strokes\de626ad76c541e876e3530e5bbcd7ae7.webp
+A:\dev\__\9.ssarts\strokes\e0299761f846b7997fdafa82c5c1b0ee.webp
 A:\dev\__\9.ssarts\strokes\ea05c10cc744350b689cee09ffac17ac.webp
 A:\dev\__\9.ssarts\strokes\ead4597c783873523f2e767f701ca2de.webp
 A:\dev\__\9.ssarts\strokes\fac000290578d495700715e0ffbf58a4.webp
 A:\dev\__\9.ssarts\strokes\fedf00cce22ed7b39f6b242ed1a0b8e3.webp
+A:\dev\__\9.ssarts\wallpaper\4cdf5402012a44b9228c9eac6dc6ff59.webp
 A:\dev\__\9.ssarts\wallpaper\8c7b99d1f1eecd0617b995acb2c400ce.webp
+A:\dev\__\9.ssarts\wallpaper\a (141).webp
+A:\dev\__\9.ssarts\wallpaper\a (54).webp
+A:\dev\__\9.ssarts\wallpaper\a (56).webp
+A:\dev\__\9.ssarts\wallpaper\a (63).webp
+A:\dev\__\9.ssarts\wallpaper\a (82).webp
 A:\dev\__\9.ssarts\wallpaper\abb2.webp
 A:\dev\__\9.ssarts\wallpaper\abb5.webp
 A:\dev\__\9.ssarts\wallpaper\bb1.webp
